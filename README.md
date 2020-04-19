@@ -1,5 +1,5 @@
 # LearningGit Repo
 
-![./images.jpeg](Jimmy)
+![JIMMY](./images.jpeg)
 
 Repository made for learning purposes only
